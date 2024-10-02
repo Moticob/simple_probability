@@ -1,6 +1,6 @@
 # Simple Probability in C
 
-![C Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/C_logo.svg/1200px-C_logo.svg.png) ![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Markdown-mark.svg/800px-Markdown-mark.svg.png)
+![C Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/C_logo.svg/1200px-C_logo.svg.png)  ![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Markdown-mark.svg/800px-Markdown-mark.svg.png)
 
 This project demonstrates basic probability simulations in C by calculating the probabilities of different events (A, B, and C) and their joint probabilities.
 
@@ -62,11 +62,3 @@ To clean the project:
 ```bash
 make clean
 ```
-markdown
-
-### Changes Made:
-- Removed the repetitive "Copier le code" text.
-- Improved formatting for readability.
-- Clarified descriptions and structured sections for better flow.
-
-Feel free to further customize any section according to your preferences!
