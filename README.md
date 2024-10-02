@@ -1,6 +1,7 @@
 # Simple Probability in C
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/C_logo.svg/1200px-C_logo.svg.png" alt="C Logo" width="200"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Markdown-mark.svg/800px-Markdown-mark.svg.png" alt="Markdown Logo" width="200"/>
+[![C](https://img.shields.io/badge/C-99%2B-blue)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
+[![Markdown](https://img.shields.io/badge/Markdown-1.0%2B-lightgrey)](https://en.wikipedia.org/wiki/Markdown)
 
 This project demonstrates basic probability simulations in C by calculating the probabilities of different events (A, B, and C) and their joint probabilities.
 
